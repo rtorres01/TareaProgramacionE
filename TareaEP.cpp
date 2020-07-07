@@ -27,6 +27,13 @@ int main()
     cin>>numero2;
     suma= sumar(numero1,numero2);
     cout<<"la suma es :"<< suma;
+    /* string nombre;
+    setlocale(LC_ALL,"Spanish");
+    saludar("Fulano");
+    cout<<"Ingrese el nombre: " ;
+    getline(cin, nombre);
+    //cin >> nombre;
+    saludar(nombre);*/
     
 
     return 0;
