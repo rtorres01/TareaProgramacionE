@@ -34,7 +34,13 @@ int main()
     getline(cin, nombre);
     //cin >> nombre;
     saludar(nombre);*/
-    
+    /* string nombre;
+    setlocale(LC_ALL,"Spanish");
+    saludar("Fulano");
+    cout<<"Ingrese el nombre: " ;
+    getline(cin, nombre);
+    //cin >> nombre;
+    saludar(nombre);*/
 
     return 0;
 }
